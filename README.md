@@ -1,15 +1,14 @@
-# 🐍 Snake Neon Cyberpunk (Phaser Edition)
-**By Rolandino | SPY-E | 123Tool**
+## 🐍 Snake Game 2D
 
-Game Snake klasik yang dimodifikasi dengan visual **Neon Cyberpunk** dan sistem **Persistent High Score**. Dibangun menggunakan Phaser.js v2 untuk performa HTML5 yang ringan dan gahar.
+Game Snake klasik yang dimodifikasi dengan visual Dibangun menggunakan Phaser.js v2 untuk performa HTML5 yang ringan
 
-## ✨ Fitur Sadisss
+## ✨ Fitur
 - **Neon Visuals:** Tanpa aset gambar berat, ular dan apel digambar langsung menggunakan engine graphics dengan efek glow.
 - **Persistent High Score:** Rekor tertinggi disimpan di `localStorage`, tidak akan hilang walau browser ditutup.
 - **Dynamic Speed:** Kecepatan meningkat setiap 5 poin (Max Level 10).
 - **Responsive Dashboard:** UI minimalis ala Glassmorphism di dalam canvas.
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 - **Engine:** Phaser.js v2.4.4 (Classic & Stable).
 - **Language:** Vanilla JavaScript.
 - **Styling:** CSS3 & Canvas API.
