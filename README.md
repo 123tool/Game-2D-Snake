@@ -16,8 +16,8 @@ Game Snake klasik yang dimodifikasi dengan visual Dibangun menggunakan Phaser.js
 ## 🚀 Instalasi di Termux
 Mau jalanin di Termux? Gampang, Bos!
 1. Install Python: `pkg install python`
-2. Clone repo ini: `git clone [URL_REPO]`
-3. Masuk folder: `cd [NAMA_FOLDER]`
+2. Clone repo ini: `git clone [https://github.com/123tool/Game-2D-Snake.git]`
+3. Masuk folder: `cd [Game-2D-Snake]`
 4. Jalankan Server: `python -m http.server 8080`
 5. Buka di browser: `localhost:8080`
 
@@ -27,4 +27,4 @@ Mau jalanin di Termux? Gampang, Bos!
 - Jangan tabrak tembok atau badan sendiri, atau **GAME OVER!**
 
 ---
-*Developed with ⚡ by Rolandino (SPY-E). Stay Gahar!*
+*Developed with ⚡ by 123tool (SPY-E). Stay!*
